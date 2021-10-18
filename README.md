@@ -7,5 +7,6 @@ Filter, pixel and neighbor manipulation
 
 ![Uploading bv-foto.png…]()
 
-I have worked with different color schemes (RGB, HSV, etc.). 
+I have worked with different color models (RGB, HSV, etc.) Histogramm and more.
+
 created Sliders to get adjustable filters such as black/white coloring, transformations (e. g. rotate and cut), DPCM or to reduce noises.
