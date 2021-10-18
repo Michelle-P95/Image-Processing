@@ -17,4 +17,9 @@ created Sliders to get adjustable filters such as black/white coloring, transfor
 ![image](https://user-images.githubusercontent.com/56310257/137785372-6bedc611-a611-48f1-9cb2-93e0298649bf.png)
 
 
+_______________________________________________________________
 
+find my code in the src folder.
+for example:
+find my Max Filter here
+- .../1.Median_Max_Min_Filter/src/bv_ws20/MaxFilter.java
