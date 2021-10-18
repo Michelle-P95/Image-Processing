@@ -5,7 +5,8 @@ Filter, pixel and neighbor manipulation
 - Java
 - javafx
 
-![Uploading bv-foto.png…]()
+![image](https://user-images.githubusercontent.com/56310257/137785007-ff00bfb7-2201-4cf9-84e9-21282e65ca07.png)
+
 
 I have worked with different color models (RGB, HSV, etc.) Histogramm and more.
 
